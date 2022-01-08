@@ -1,0 +1,30 @@
+.footer{
+    background-color: #404040;
+    height: 150px;
+    overflow: hidden;
+}
+.left-footer{
+    position: relative;
+    padding-top: 10px;
+    margin-left: 200px;
+    width: 20%;
+}
+.right-footer{
+position: relative;
+margin-left: 410px;
+bottom:228px;
+width: 20%;
+}
+.v1{
+    position: relative;
+    border-left: 1px solid white;
+    margin-left: 398px;
+    height: 124px;
+    bottom: 96px;
+}
+.icons{
+    position: relative;
+    width: 20%;
+    margin-left: 874px;
+    bottom: 230px;
+}
