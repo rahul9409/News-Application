@@ -2,6 +2,8 @@
     background-color: #404040;
     height: 150px;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 .left-footer{
     position: relative;
@@ -27,4 +29,10 @@ width: 20%;
     width: 20%;
     margin-left: 874px;
     bottom: 230px;
+}
+@media(max-width:1024px){
+    .icons{
+        margin-left: 580px;
+        bottom: 224px;
+    }
 }
